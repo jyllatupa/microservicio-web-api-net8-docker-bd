@@ -1,0 +1,11 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Configuration
+appsettings.json
+appsettings.*.json  # Opcional si quieres ignorar todas las variantes como Production o Development
