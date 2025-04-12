@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\ASP.NET\\1_Mis Proyectos\\09.API_SQLServer_Docker_Compose\\WebAPI_NET8_Docker_Compose\\microservicio-web-api-net8-docker-bd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04393A3E-D278-4478-B152-FC123A550A57}|docker-compose.dcproj|d:\\proyectos\\asp.net\\1_mis proyectos\\09.api_sqlserver_docker_compose\\webapi_net8_docker_compose\\microservicio-web-api-net8-docker-bd\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04393A3E-D278-4478-B152-FC123A550A57}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289A8062-BCD9-4C24-84CA-3EBA87A6C922}|WebAPI_NET8_Docker\\WebAPI_NET8_Docker.csproj|d:\\proyectos\\asp.net\\1_mis proyectos\\09.api_sqlserver_docker_compose\\webapi_net8_docker_compose\\microservicio-web-api-net8-docker-bd\\webapi_net8_docker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{289A8062-BCD9-4C24-84CA-3EBA87A6C922}|WebAPI_NET8_Docker\\WebAPI_NET8_Docker.csproj|solutionrelative:webapi_net8_docker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Proyectos\\ASP.NET\\1_Mis Proyectos\\09.API_SQLServer_Docker_Compose\\WebAPI_NET8_Docker_Compose\\microservicio-web-api-net8-docker-bd\\WebAPI_NET8_Docker\\Dockerfile",
+              "RelativeDocumentMoniker": "WebAPI_NET8_Docker\\Dockerfile",
+              "ToolTip": "D:\\Proyectos\\ASP.NET\\1_Mis Proyectos\\09.API_SQLServer_Docker_Compose\\WebAPI_NET8_Docker_Compose\\microservicio-web-api-net8-docker-bd\\WebAPI_NET8_Docker\\Dockerfile",
+              "RelativeToolTip": "WebAPI_NET8_Docker\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-12T00:00:54.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Proyectos\\ASP.NET\\1_Mis Proyectos\\09.API_SQLServer_Docker_Compose\\WebAPI_NET8_Docker_Compose\\microservicio-web-api-net8-docker-bd\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Proyectos\\ASP.NET\\1_Mis Proyectos\\09.API_SQLServer_Docker_Compose\\WebAPI_NET8_Docker_Compose\\microservicio-web-api-net8-docker-bd\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-11T23:58:19.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

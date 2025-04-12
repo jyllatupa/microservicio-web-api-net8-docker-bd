@@ -11,7 +11,7 @@ services:
        - 8006:1433
     environment:
        - ACCEPT_EULA=Y
-       - MSSQL_SA_PASSWORD=MyPassword*1234
+       - MSSQL_SA_PASSWORD=alizee010419!
     networks:
         - mynetworkapi
 

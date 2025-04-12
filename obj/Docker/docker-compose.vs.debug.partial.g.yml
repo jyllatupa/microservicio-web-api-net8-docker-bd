@@ -16,8 +16,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - D:\Proyectos\ASP.NET\1_Mis Proyectos\09.API_SQLServer_Docker_Compose\WebAPI_NET8_Docker_Compose\WebAPI_NET8_Docker:/app:rw
-      - D:\Proyectos\ASP.NET\1_Mis Proyectos\09.API_SQLServer_Docker_Compose\WebAPI_NET8_Docker_Compose:/src:rw
+      - D:\Proyectos\ASP.NET\1_Mis Proyectos\09.API_SQLServer_Docker_Compose\WebAPI_NET8_Docker_Compose\microservicio-web-api-net8-docker-bd\WebAPI_NET8_Docker:/app:rw
+      - D:\Proyectos\ASP.NET\1_Mis Proyectos\09.API_SQLServer_Docker_Compose\WebAPI_NET8_Docker_Compose\microservicio-web-api-net8-docker-bd:/src:rw
       - C:\Users\chels\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\chels\.nuget\packages:/.nuget/packages:ro
       - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/.nuget/fallbackpackages:ro
